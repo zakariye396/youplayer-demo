@@ -53,3 +53,27 @@ https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="W24" group-title="News",W24
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+
+# ── Movies (public domain / open content — safe for App Review) ──
+#EXTINF:-1 group-title="Movies",Big Buck Bunny (2008)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 group-title="Movies",Tears of Steel (2012)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 group-title="Movies",Night of the Living Dead (1968)
+https://archive.org/download/night-of-the-living-dead-1968_202312/Night%20of%20the%20Living%20Dead%20%281968%29.mp4
+#EXTINF:-1 group-title="Movies",His Girl Friday (1940)
+https://archive.org/download/Harvey_His_Girl_Friday/Harvey_His_Girl_Friday.mp4
+#EXTINF:-1 group-title="Movies",The Stranger (1946)
+https://archive.org/download/the_stranger_1946/the_stranger_1946.mp4
+
+# ── Series (public domain — The Beverly Hillbillies) ──
+#EXTINF:-1 group-title="Series",The Beverly Hillbillies S01E01
+https://archive.org/download/beverly.-hillbillies-unaired.-pilot/Beverly.Hillbillies-Unaired.Pilot.mp4
+#EXTINF:-1 group-title="Series",The Beverly Hillbillies S01E05
+https://archive.org/download/TheBeverlyHillbillies-JedBuysStock-Ep.1x05/TheBeverlyHillbillies105-JedBuysStock_512kb.mp4
+#EXTINF:-1 group-title="Series",The Beverly Hillbillies S01E42
+https://archive.org/download/Beverly_Hillbillies_Ep42_Jethros_First_Love/Beverly_Hillbillies_Ep42_Jethros_First_Love_512kb.mp4
+#EXTINF:-1 group-title="Series",The Beverly Hillbillies S01E43
+https://archive.org/download/Beverly_Hillbillies_Ep43_Chickadee_Returns/Beverly_Hillbillies_Ep43_Chickadee_Returns_512kb.mp4
+#EXTINF:-1 group-title="Series",The Beverly Hillbillies S01E52
+https://archive.org/download/Beverly_Hillbillies_Ep52_The_Giant_JackRabbit/BH52_The_Giant_JackRabbit_512kb.mp4
